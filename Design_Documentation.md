@@ -54,4 +54,4 @@ If it does not, it will just print 0 and end the program.
 
 Then, it will quit and that's all, folks.
 
-Note: Program2 can only run by clicking "single step switch". It won't work correctly by click Run button!
+Note: Program2 can only run by clicking "single step switch". It won't work correctly by clicking the Run button!

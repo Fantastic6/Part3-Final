@@ -33,7 +33,7 @@ Put the name of the file in the prompt.
 
 Click Load. It will load the instructions into memory and set PC to the position of the first instruction. Then it also load sentences from memory address 1024.
 
-Click Single Step Switch Button: Run one instruction at a time and increment the PC by 1. It will show the result in the lable "Result: " above the prompt.
+Click Single Step Switch Button: Run one instruction at a time and increment the PC by 1. It will show the result in the label "Result: " above the prompt.
 
 
 
